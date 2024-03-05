@@ -6,7 +6,7 @@ import metier.IMetier;
 import java.io.File;
 import java.util.Scanner;
 
-public class Presentation {
+public class PresDyn {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(new File("./src/main/resources/config.txt"));
 
