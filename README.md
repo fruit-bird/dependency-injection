@@ -3,8 +3,6 @@ Toute application moderne nécessite l'évolutivité, en appliquant les principe
 Cela signifie que les applications doivent être conçues pour être modifiées sans avoir à modifier le code source.
 
 ## Énoncé
-Dans le cadre de ce TP, vous devez implémenter un programme qui permet de gérer les formes géométriques. Les formes géométriques sont des objets qui ont une position, une couleur et une forme. Les formes géométriques peuvent être de différents types (cercle, rectangle, carré, triangle, etc.). Chaque type de forme géométrique a ses propres caractéristiques. Par exemple, un cercle est défini par son rayon, un rectangle par sa largeur et sa hauteur, etc.
-
 Dans le cadre de ce TP, on doit implémenter le concept de l'injection des dépendances de manières statique et dynamique
 - La méthode statique consiste à injecter les dépendances directement dans le constructeur de la classe
 - La méthode dynamique consiste à injecter les dépendances à travers
